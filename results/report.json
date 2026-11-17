@@ -1,0 +1,128 @@
+{
+  "documents": 101,
+  "runs_by_machine": [
+    {
+      "host": "127ffcccb865",
+      "books": 3
+    },
+    {
+      "host": "169.254.91.75",
+      "books": 1
+    },
+    {
+      "host": "429cef7d3634",
+      "books": 1
+    },
+    {
+      "host": "Charlies-MacBook-Pro.local",
+      "books": 3
+    },
+    {
+      "host": "b82e3365da5b",
+      "books": 101
+    },
+    {
+      "host": "ip-172-31-23-55",
+      "books": 100
+    },
+    {
+      "host": "udc-aw37-1",
+      "books": 101
+    }
+  ],
+  "last_processed": [
+    {
+      "_id": "pg996.txt",
+      "author": "Miguel de Cervantes Saavedra",
+      "bucket": "public-hxc3nd",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-23-55",
+          "at": "2026-11-01 23:02:56.481000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 01:44:18.238000",
+          "job": "22781804_101"
+        },
+        {
+          "host": "b82e3365da5b",
+          "at": "2026-11-17 21:57:39.350000"
+        }
+      ],
+      "title": "Don Quixote",
+      "unique_words": 15574,
+      "vocabulary_ratio": 0.0359,
+      "word_count": 433304,
+      "llm_analysis": {
+        "summary": "- Setting: Set in Spain, particularly around the 16th century.\n- Main Characters: Don Quixote, a mad knight, and Sancho Panza, his loyal squire.\n- Plot Summary: Don Quixote, inspired by medieval chivalry stories, decides to ride off as a knight and falls in love with Dulcinea, a woman he believes to be a princess. However, he encounters numerous comedic and tragic misadventures, including battles with windmills, enchanted objects, and misunderstandings.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-11 01:44:18.238000"
+      }
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-hxc3nd",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-23-55",
+          "at": "2026-11-01 23:02:56.167000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 01:44:16.719000",
+          "job": "22781804_100"
+        },
+        {
+          "host": "b82e3365da5b",
+          "at": "2026-11-17 21:57:38.840000"
+        }
+      ],
+      "title": "A Tale of Two Cities",
+      "unique_words": 9698,
+      "vocabulary_ratio": 0.07,
+      "word_count": 138490,
+      "llm_analysis": {
+        "summary": "Jerry Cruncher, a young messenger at Tellson's Bank, receives a mysterious package containing a letter from Mr. Jarvis Lorry, a lawyer. Intrigued, Jerry decides to investigate.",
+        "genre": "mystery",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-11 01:44:16.719000"
+      }
+    },
+    {
+      "_id": "pg963.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-hxc3nd",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-23-55",
+          "at": "2026-11-01 23:02:56.007000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 01:43:34.263000",
+          "job": "22781804_99"
+        },
+        {
+          "host": "b82e3365da5b",
+          "at": "2026-11-17 21:57:38.551000"
+        }
+      ],
+      "title": "Little Dorrit",
+      "unique_words": 14784,
+      "vocabulary_ratio": 0.0428,
+      "word_count": 345231,
+      "llm_analysis": {
+        "summary": "Mr Arthur Clennam arrives in London from Marseilles, where he witnessed a tragic event involving a ship sinking. He meets his estranged mother, Mrs Clennam, who is confined to her room due to health issues. During their reunion, Mr Clennam learns about his father's death and the financial troubles of the family. Mrs Clennam reveals that her husband, Jeremiah Flintwinch, proposes marriage to her despite their shared past.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-11 01:43:34.263000"
+      }
+    }
+  ]
+}
